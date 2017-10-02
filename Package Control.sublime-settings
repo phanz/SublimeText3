@@ -2,11 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
 		"ConvertToUTF8",
+		"CTags",
 		"Package Control",
+		"Pretty JSON",
 		"SublimeLinter",
 		"SublimeLinter-javac",
 		"SublimeREPL",
