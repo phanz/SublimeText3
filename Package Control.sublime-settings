@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"ConvertToUTF8",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-javac",

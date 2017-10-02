@@ -5,5 +5,7 @@
 	[
 		"Vintage"
 	],
+	"show_encoding": true,
+	"show_line_endings": true,
 	"theme": "Adaptive.sublime-theme"
 }
