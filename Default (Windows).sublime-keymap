@@ -3,8 +3,11 @@
     "keys":["ctrl+shift+t"],
     "caption": "SublimeREPL: Python",
     "command": "run_existing_window_command", "args":
-    {"id": "repl_python",
-    "file": "config/Python/Main.sublime-menu"}
-    }
+    	{
+    		"id": "repl_python",
+    		"file": "config/Python/Main.sublime-menu"
+		}
+    },
 
+    { "keys": ["ctrl+t"], "command": "open_terminal" }
 ]

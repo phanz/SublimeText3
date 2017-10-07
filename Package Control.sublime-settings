@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
@@ -10,9 +9,12 @@
 		"CTags",
 		"Package Control",
 		"Pretty JSON",
+		"SublimeGDB",
 		"SublimeLinter",
+		"SublimeLinter-cppcheck",
 		"SublimeLinter-javac",
 		"SublimeREPL",
-		"SublimeTmpl"
+		"SublimeTmpl",
+		"Terminal"
 	]
 }
